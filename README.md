@@ -1,4 +1,4 @@
-### Laura Nunes Fochi
+### Olá 👋🏻 eu sou a Laura
 
 <!--
 **LauraFochi/LauraFochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📱 Atualmente trabalho com desenvolvimento iOS na GlobosatPlay
+- 📚 Estou cursando Análise e Desenvolvimento de Sistemas na UNICAMP
+- 👯 Gosto de desafios e aprender coisas novas
+- 👩🏻‍💻 #WomenInTech
 
 <img align="right" src="https://github.com/LauraFochi/LauraFochi/blob/master/laura.png" />
 
