@@ -7,7 +7,7 @@
 
 - 📱  Atualmente trabalho com desenvolvimento iOS na GlobosatPlay
 - 📚  Estou cursando Análise e Desenvolvimento de Sistemas na UNICAMP
-- 👯  Gosto de desafios e aprender coisas novas
+- 👯  Gosto de desafios e de aprender coisas novas
 - 👩🏻‍💻  #WomenInTech
 
 <br />
