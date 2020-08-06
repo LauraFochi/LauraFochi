@@ -1,6 +1,4 @@
 <br />
-<br />
-
 ### Olá 👋🏻 eu sou a Laura
 
 
