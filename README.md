@@ -2,7 +2,7 @@
 
 
 
-<img align="right" src="https://github.com/LauraFochi/LauraFochi/blob/master/laura.png" />
+<img align="right" src="https://github.com/LauraFochi/LauraFochi/blob/master/icon.png" />
 
 - 📱  Atualmente trabalho com desenvolvimento iOS na GlobosatPlay
 - 📚  Estou cursando Análise e Desenvolvimento de Sistemas na UNICAMP
