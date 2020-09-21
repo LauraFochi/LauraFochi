@@ -5,7 +5,7 @@
 
 <img align="right" src="https://github.com/LauraFochi/LauraFochi/blob/master/icon.png" />
 
-- 📱  Atualmente trabalho com desenvolvimento iOS na GlobosatPlay
+- 📱  Atualmente trabalho com desenvolvimento iOS 
 - 📚  Estou cursando Análise e Desenvolvimento de Sistemas na UNICAMP
 - 👯  Gosto de desafios e de aprender coisas novas
 - 👩🏻‍💻  #WomenInTech
